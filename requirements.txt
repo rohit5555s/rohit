@@ -1,0 +1,13 @@
+yfinance
+pandas
+matplotlib
+Dash
+html 
+dash_table 
+dcc 
+callback 
+Output 
+Input
+plotly.express
+plotly
+dash_mantine_components
